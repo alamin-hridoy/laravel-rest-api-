@@ -1,0 +1,82 @@
+#brand-icon, .icon {
+    width:40px;
+    height:40px;
+}
+
+.navbar-brand {
+    margin: 6px 1px 10px 1px;
+}
+
+.nav > li > a {
+    margin: 32px 4px 10px 4px;
+    padding: 0px;
+}
+
+.navbar-form .form-control {
+    margin: 20px  4px 15px 4px;
+    padding: 4px;
+    max-width: 300px;
+}
+
+.fa:hover {
+    color: #4368a8;
+}
+
+.logo {
+    width: 70px;
+    margin-top: 10px;
+    
+}
+
+.navbar {
+    margin-bottom: 5px;
+}
+
+.btn-xl {
+    padding: 5x 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    width:25%;
+}
+
+.page-header {
+    color: #4368a8;
+    text-align: center;
+    font-weight: bold;
+}
+
+.well {
+    background: #FFF;
+}
+
+.thumbnail {
+    width: 270px;
+    height: 250px;
+}
+
+.post {
+    margin: 5px 0px;
+}
+
+.post-title {
+    color: #000;
+    margin-top: 0px;
+}
+
+@-moz-document url-prefix() {
+    fieldset { display: table-cell; }
+}
+
+#help-icon {
+    width: 35px;
+    height: 35px;
+}
+
+th {
+    background: #3097D1;
+    color: #FFF;
+}
+
+.jumbotron {
+    background: #FFF;
+}
